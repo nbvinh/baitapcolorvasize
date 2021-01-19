@@ -49,7 +49,7 @@ const Fontsize = (props) => {
                 style={styles.header}
                 colors={['#BD1313', '#FF8080']}
             >
-                <Text style={styles.textsize}>FontSize</Text>
+                <Text style={styles.textsize}>FontSize1</Text>
             </LinearGradient>
             <View style={{ flex: 1, flexDirection: 'column' }}>
                 <View style={styles.size}>
